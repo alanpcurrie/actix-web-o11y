@@ -1,6 +1,6 @@
 
 
-# Rust O11y
+# Actix Web O11y
 
 A starter for setting up Observability with Rust using prometheus, and grafana
 
